@@ -17,3 +17,11 @@
 5. Run the command 'pip install -r ./requirements.txt'
 6. cd into backend_django
 7. Run the command 'python manage.py runserver 0.0.0.0:8000' to start the server
+
+## Database
+PostgreSQL is used for the project but not uploaded.
+
+1. Install PostgreSQL
+2. After running the backend server once, stop it
+3. Run the command 'python manage.py makemigrations'
+4. Run the command 'python manage.py migrate'
