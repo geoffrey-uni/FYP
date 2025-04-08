@@ -10,6 +10,7 @@ Note: An iOS or Android simulator is needed. Alternatively, using a mobile phone
 5. Run the command 'npx expo start' to start the project
 
 ## Backend
+Note: Llama 3.2 is used as the LLM in the backend through the ollama library, so ollama has to be downloaded too. After downloading, run the command 'ollama pull llama3.2'.
 
 1. Install python
 2. Download the folder
