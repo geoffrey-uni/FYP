@@ -1,6 +1,7 @@
 # FYP
 
 ## Frontend
+Note: An iOS or Android simulator is needed. Alternatively, using a mobile phone to scan the QR code after starting the project should also work (Expo Go will be downloaded).
 
 1. Install Node.js
 2. Download the folder
@@ -19,7 +20,7 @@
 7. Run the command 'python manage.py runserver 0.0.0.0:8000' to start the server
 
 ## Database
-PostgreSQL is used for the project but not uploaded.
+Note: PostgreSQL is used for the project but not uploaded.
 
 1. Install PostgreSQL
 2. After running the backend server once, stop it
