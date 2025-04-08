@@ -5,7 +5,7 @@
 1. Install Node.js
 2. Download the folder
 3. cd into frontend
-4. Run the command 'npm install' to install the needed dependecies
+4. Run the command 'npm install' to install the needed dependencies
 5. Run the command 'npx expo start' to start the project
 
 ## Backend
